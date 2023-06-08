@@ -17,7 +17,6 @@
 <%
 	String num = request.getParameter("num");
 	String name = request.getParameter("name");
-	
 %>
 <h1>second JSP</h1>
 	번호 : <%= num %>
